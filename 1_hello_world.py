@@ -1,5 +1,5 @@
 #
-# James
+# Myra Ivana Yuliani Jaya
 # Print Hello World!
 #
 
@@ -8,4 +8,4 @@
 # 2. Process
 
 # 3. Output
-print('Hello World!')
+print('Hello Tunghai University')
