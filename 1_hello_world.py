@@ -1,5 +1,5 @@
 #
-# James
+# Myra
 # Print Hello World!
 #
 
