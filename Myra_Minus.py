@@ -9,7 +9,7 @@ X = 8
 Y = 7
 
 # 2. Process
-Sum = X - Y
+Min = X - Y
 
 # 3. Output
-print(f'Result {Sum}')
+print(f'Result {Min}')
